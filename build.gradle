@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.test'
 version = '0.0.1-SNAPSHOT'
-description = 'Demo project for Travis CI.'
+description = 'Demo project for Circle CI.'
 
 java {
     toolchain {
